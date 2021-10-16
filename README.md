@@ -2,6 +2,12 @@
 
 Uma biblioteca simples para gerenciar variáveis de ambiente em PHP.
 
+## Instalação
+
+Para instalar esta depedência basta  execultar o comando abaixo:
+```shell
+composer require patric/dot-env
+```
 ## Uso
 
 Para usar esta biblioteca, basta criar um arquivo `.env` na raiz do projeto, seguindo o modelo abaixo (uma variável por linha):
