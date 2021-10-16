@@ -1,0 +1,20 @@
+{
+    "name": "patric/dot-env",
+    "description": "Uma biblioteca simples para gerenciar variáveis de ambiente em PHP.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Patric\\DotEnv\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Patric Oliveira",
+            "email": "patric.eng.computation@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    }
+}
