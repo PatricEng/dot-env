@@ -33,6 +33,6 @@ echo getenv('DB_HOST');
 
 ```
 
-## Requirements
+## Requisito
 
 Está biblioteca precisa do PHP 7.0 ou maior.
